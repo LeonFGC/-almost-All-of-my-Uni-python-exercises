@@ -1,0 +1,5 @@
+apellido,nombre,DNI,mail,pass,1
+apellido,nombre,DNI,mail,pass,0
+apellido,nombre,DNI,mail,pass,1
+apellido,nombre,DNI,mail,pass,0
+apellido,nombre,DNI,mail,pass,1
