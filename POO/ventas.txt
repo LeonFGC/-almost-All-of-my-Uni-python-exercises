@@ -1,0 +1,3 @@
+pelicula: Barbie, importe: 1440, jubilado: 0, cupon: 1, discapacitado: no, cantidad de entradas: 3
+pelicula: Oppenheimer, importe: 2400, jubilado: 0, cupon: 1, discapacitado: no, cantidad de entradas: 3
+pelicula: Oppenheimer, importe: 3600, jubilado: no, cupon: no, discapacitado: no, cantidad de entradas: 3

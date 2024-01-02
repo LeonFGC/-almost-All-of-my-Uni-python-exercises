@@ -1,0 +1,7 @@
+30-07-2023,Santiago,Andermatten,44287673,3472468850,santiagoandermatten1@gmail.com,39300.0
+04-07-2023,Leon,Camandona,42362312,353412331,camandonaleon@gmail.com,596050.0
+01-07-2023,Nicolas,Bolatti,41233123,3123312512,maindenicoxd@gmail.com,945820.0
+19-07-2023,Valentin,Bracamonte,444222331,3312331323,valentinbracamonte@gmail.com,1012630.0
+08-07-2023,Gonzalo,Bettini,31231231,33123313,maildegonzalo@gmail.com,1065030.0
+03-07-2023,Admin,Admin,00000000,3472456789,ADMIN@WHILETRUE.COM,1065030.0
+02-07-2023,RANDOM,RANDOM,RANDOM,RANDOM,RANDOM,1071580.0
